@@ -1,0 +1,8 @@
+TTS
+transformers
+scipy
+torch
+torchaudio
+IPython
+numpy
+Text2Speech

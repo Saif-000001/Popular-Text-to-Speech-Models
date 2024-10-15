@@ -1,0 +1,3 @@
+#!/home/saif/Popular Text-to-Speech Models/tts_env/bin/python3.10
+from numba.pycc import main
+main()
